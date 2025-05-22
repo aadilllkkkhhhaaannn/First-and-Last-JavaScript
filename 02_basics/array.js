@@ -1,7 +1,7 @@
 // array
 
 const myArr = [1, 2, 3, 4, 5];
-// console.log(myArr)
+console.log(myArr)
 
 // const myArr2 = new Array(1,2,3,4,5)
 // console.log(myArr2[1])
