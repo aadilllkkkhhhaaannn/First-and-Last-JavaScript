@@ -1,11 +1,8 @@
 let x;
 console.log(x);
 
-// let a = null
-// console.log(a)
-
-const value = 'name'
-console.log(typeof value)
+const value = "name";
+console.log(typeof value);
 
 // Why string to number conversion is confusing
 

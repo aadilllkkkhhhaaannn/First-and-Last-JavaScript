@@ -1,14 +1,14 @@
 const name = "uzair";
 const age = 2;
 
-// console.log(`my name is ${name} and my age is ${age}`);
+console.log(`my name is ${name} and my age is ${age}`);
 
 const gameName = new String("Aadil");
-// console.log(gameName[0])
-// console.log(gameName.__proto__)
+console.log(gameName[0])
+console.log(gameName.__proto__)
 
-// console.log(gameName.charAt(2));
-// console.log(gameName.indexOf("l"));
+console.log(gameName.charAt(2));
+console.log(gameName.indexOf("l"));
 
 const newString = gameName.substring(0, 5);
 console.log(newString);
