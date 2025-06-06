@@ -207,3 +207,16 @@
 
 // const result = minimumValue([1, 2, 3, 4, 5]);
 // console.log(result);
+
+// 27. Check if a String Contains Another String in JavaScript?
+
+// function containsSubstring(str, substring) {
+//   return str.indexOf(substring) !== -1;
+// }
+
+// console.log(containsSubstring("GeeksForGeeks", "For"));
+
+// 28. Find the First Non-Repeated Character in a String in JavaScript?
+
+
+
